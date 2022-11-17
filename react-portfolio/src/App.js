@@ -1,18 +1,21 @@
-import logo from './logo.svg';
-import './style.css';
-import Header from './components/header';
-import Nav from './components/nav';
-import Project from './components/project';
-import Footer from './components/footer';
+import React from "react";
+import './index.css';
+import Resume from './nav-pages/resume';
+import Contact from './nav-pages/contact';
+import Project from './nav-pages/project';
+import About from './nav-pages/about';
+import { Routes, Route } from "react-router-dom";
 
 function App() {
   return (
-    <div className="App">
-      <Nav/>
-      <Header/>
-      <Project/>
-      <Footer/>
-    </div>
+    <>
+    <Routes>
+    <Route path="/" element={<About/>} />
+    <Route path="/project" element={<Project/>} />
+    <Route path="/contact" element={<Contact/>} />
+    <Route path="/resume" element={<Resume/>} />
+    </Routes>
+    </>
   );
 }
 
