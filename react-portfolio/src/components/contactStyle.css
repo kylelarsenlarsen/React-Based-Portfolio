@@ -44,4 +44,5 @@ form textarea {
     font-weight: 650;
     color: black;
     background-color: rgba(0, 0, 0, 0.404);
+    justify-content: center;
 }

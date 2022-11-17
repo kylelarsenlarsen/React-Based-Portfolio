@@ -27,7 +27,6 @@
 }
 
 img {
-    border: 10px solid darkgray;
     width: 110%;
-    border-radius: 25px;
+    border-radius: 10px;
 }
