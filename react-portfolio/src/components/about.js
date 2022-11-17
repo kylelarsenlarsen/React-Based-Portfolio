@@ -9,12 +9,12 @@ const About = () => {
                     <h1>Welcome!</h1>
                     <br></br>
                     <p>
-                        Hello! I'm Kyle from Utah County, Utah. I'm currently a student enrolled in the full stack development course at University of Utah.
+                        Hello! I'm Kyle from Utah County, Utah. I'm currently a student enrolled in the full stack web development course at University of Utah.
                     </p>
                     <br></br>
                 </div>
                 <div className="about-image">
-                    <img></img>
+                    <img src={require("../images/me.jpg")} alt="Kyle Larsen" />
                 </div>
             </div>
         </div>
