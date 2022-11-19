@@ -1,6 +1,6 @@
 h3 {
     float: left;
-    width: 200px;
+    width: 400px;
     color: black;
     padding-right: 24px;
     padding-left: 100px;
@@ -36,13 +36,13 @@ form textarea {
 
 .submit-button {
     width: 250px;
-    position: relative;
-    margin-top: -43px;
-    margin-left: 350px;
+    margin-left: 16rem;
+    position: static;
+    margin-top: 5vh;
+    border-radius: 5px;
     border: solid gray;
     padding: 10px;
     font-weight: 650;
     color: black;
-    background-color: rgba(0, 0, 0, 0.404);
-    justify-content: center;
+    background-color: rgb(105, 105, 105);
 }

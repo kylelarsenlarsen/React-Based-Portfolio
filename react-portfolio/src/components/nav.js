@@ -15,7 +15,7 @@ const Nav = () => {
               <Link to="/">About Me</Link>
             </li>
             <li className={splitLocation[1] === "portfolio" ? "active" : ""}>
-              <Link to="/portfolio">Portfolio</Link>
+              <Link to="/project">Portfolio</Link>
             </li>
             <li className={splitLocation[1] === "resume" ? "active" : ""}>
               <Link to="/resume">Resume</Link>
