@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-application/static/css/main.b4c5a1d8.css",
+    "main.js": "/react-application/static/js/main.af6ad0de.js",
+    "static/media/background.jpg": "/react-application/static/media/background.ba764c690fe05edcacab.jpg",
+    "static/media/me.jpg": "/react-application/static/media/me.aa9bf88ca057e2f208ed.jpg",
+    "static/media/ecommerce.PNG": "/react-application/static/media/ecommerce.30385914fc3dd8eea7ff.PNG",
+    "static/media/teamgenerator.PNG": "/react-application/static/media/teamgenerator.60eb0eee872e9d7b9003.PNG",
+    "static/media/Resume.pdf": "/react-application/static/media/Resume.4ef6b723423f82293649.pdf",
+    "static/media/employeetracker.png": "/react-application/static/media/employeetracker.54a562e8a1b661231283.png",
+    "static/media/passwordgenerator.PNG": "/react-application/static/media/passwordgenerator.70d68a1d7973973a89d5.PNG",
+    "static/media/notetaker.PNG": "/react-application/static/media/notetaker.f0e4032acaade61cbebc.PNG",
+    "index.html": "/react-application/index.html",
+    "main.b4c5a1d8.css.map": "/react-application/static/css/main.b4c5a1d8.css.map",
+    "main.af6ad0de.js.map": "/react-application/static/js/main.af6ad0de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4c5a1d8.css",
+    "static/js/main.af6ad0de.js"
+  ]
+}
