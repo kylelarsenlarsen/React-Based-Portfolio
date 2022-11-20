@@ -1,0 +1,48 @@
+h3 {
+    float: left;
+    width: 400px;
+    color: black;
+    padding-right: 24px;
+    padding-left: 100px;
+    font-weight: bold;
+}
+
+.contact-prompt {
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 1rem;
+    margin: auto;
+    max-width: 800px;
+    overflow: hidden;
+}
+
+form input {
+    float: left;
+    width: calc(100% - 200px);
+    padding: 5px;
+    margin: 5px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+form textarea {
+    float: left;
+    width: calc(100% - 200px);
+    padding: 5px;
+    margin: 5px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.submit-button {
+    width: 250px;
+    margin-left: 16rem;
+    position: static;
+    margin-top: 5vh;
+    border-radius: 5px;
+    border: solid gray;
+    padding: 10px;
+    font-weight: 650;
+    color: black;
+    background-color: rgb(105, 105, 105);
+}
