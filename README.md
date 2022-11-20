@@ -12,6 +12,7 @@ This is my latest coding portfolio! This application has allowed me to exercise 
 
 ## Application
 
+![alt text](./src/images/portfolio.PNG)
 [React Portfolio](https://kylelarsenlarsen.github.io/React-Based-Portfolio/)
 
 ## Usage
